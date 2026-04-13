@@ -44,7 +44,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="KTxJ0Fsui2J9n5S791De-14" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Executor(执行器)：是一个接口(基本执行器&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;，缓存执行器)：作用SqlSession内部是通过执行器完成数据的操作&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="211" y="798" width="356" height="104" as="geometry" />
+          <mxGeometry x="199" y="945" width="356" height="104" as="geometry" />
+        </mxCell>
+        <mxCell id="KTxJ0Fsui2J9n5S791De-15" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="381" y="718" as="sourcePoint" />
+            <mxPoint x="383" y="812" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
