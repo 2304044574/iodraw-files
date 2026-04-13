@@ -10,7 +10,7 @@
         <mxCell id="KTxJ0Fsui2J9n5S791De-2" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="329" y="235" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KTxJ0Fsui2J9n5S791De-3" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1">
+        <mxCell id="KTxJ0Fsui2J9n5S791De-3" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;exitX=0.436;exitY=1.009;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.337;entryY=-0.013;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="KTxJ0Fsui2J9n5S791De-1" target="KTxJ0Fsui2J9n5S791De-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="357" y="201" as="sourcePoint" />
             <mxPoint x="410" y="167" as="targetPoint" />
