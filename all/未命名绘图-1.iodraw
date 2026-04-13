@@ -61,6 +61,12 @@
         <mxCell id="KTxJ0Fsui2J9n5S791De-18" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;结果&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="594" y="970" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="KTxJ0Fsui2J9n5S791De-19" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="109" y="812" as="sourcePoint" />
+            <mxPoint x="111" y="906" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
