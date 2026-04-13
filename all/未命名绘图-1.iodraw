@@ -16,7 +16,7 @@
             <mxPoint x="395" y="265" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KTxJ0Fsui2J9n5S791De-6" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;SqlSessionFactory(会话工厂)，根据配置&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;文件创建工厂，作用：可以创建SqlSession&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+        <mxCell id="KTxJ0Fsui2J9n5S791De-6" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;SqlSession(会话)，类似一个连接/request，&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;作用：操作数据库DB（发出sql语句，完成增删改查）&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="220" y="429" width="356" height="104" as="geometry" />
         </mxCell>
         <mxCell id="KTxJ0Fsui2J9n5S791De-4" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1">
